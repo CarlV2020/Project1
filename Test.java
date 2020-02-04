@@ -5,5 +5,8 @@ class Test{
 		public void sayHello(){
 			System.out.print("Hello");
 		}
+		public int add (int a, int b){
+			a+b;
+		}
 		
 }
